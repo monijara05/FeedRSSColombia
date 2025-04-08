@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-
   <channel>
     <title>Noticias de Colombia</title>
     <description>Suscríbete a este canal para recibir las últimas noticias de Colombia</description>
@@ -8,51 +7,45 @@
     <language>es</language>
     <lastBuildDate>07.04.2025</lastBuildDate>
     <ttl>1440</ttl>
-    
     <item>
       <title>Así será el dispositivo para garantizar la seguridad de la Semana Santa en Cali</title>
       <description> Más de 6 mil uniformados se desplegarán en diversos puntos de la capital del Valle del Cauca.</description>
-      <link>https://www.eltiempo.com/colombia/cali/asi-sera-el-dispositivo-para-garantizar-la-seguridad-de-la-semana-santa-en-cali-3442458</link>
+      <link>https://www.noticiasdecolombia.com/cali/asi-sera-el-dispositivo-para-garantizar-la-seguridad-de-la-semana-santa-en-cali-3442458</link>
       <author>José Antonio Minota Hurtado </author>
       <category>Información nacional</category>
       <pubDate>07.04.2025 13:01</pubDate>
     </item>
-    
-        <item>
+    <item>
       <title>La millonaria inversión para los emprendimientos tecnológicos enfocados a los servicios financieros en Medellín</title>
       <description>Ruta N y Bancóldex anunciaron un fondo de $13.400 millones para el ecosistema emprendedor de la ciudad.</description>
-      <link>https://www.eltiempo.com/colombia/medellin/lo-que-debe-saber-para-beneficiarse-de-la-millonaria-inversion-para-los-emprendimientos-en-medellin-3442461</link>
+      <link>https://www.noticiasdecolombia.com/medellin/lo-que-debe-saber-para-beneficiarse-de-la-millonaria-inversion-para-los-emprendimientos-en-medellin-3442461</link>
       <author>David Alejandro Mercado</author>
       <category>Economía</category>
       <pubDate>07.04.2025 12:57</pubDate>
     </item>
-    
-        <item>
+    <item>
       <title>Estos son los jugadores más caros y los más devaluados de la Liga colombiana: hay muchas sorpresas</title>
       <description>Transfermarkt actualizó los valores de mercado de la Liga BetPlay.</description>
-      <link>https://www.eltiempo.com/deportes/futbol-colombiano/estos-son-los-jugadores-mas-caros-y-los-mas-devaluados-de-la-liga-colombiana-hay-muchas-sorpresas-3442474</link>
+      <link>https://www.noticiasdecolombia.com/deportes/futbol-colombiano/estos-son-los-jugadores-mas-caros-y-los-mas-devaluados-de-la-liga-colombiana-hay-muchas-sorpresas-3442474</link>
       <author>Lisandro Abel Rengifo</author>
       <category>Deportes</category>
       <pubDate>07.04.2025 13:55</pubDate>
     </item>
-    
-        <item>
+    <item>
       <title>'Tropicalia', de Fonseca, calentó la fría noche capitalina y puso a Bogotá a cantarle al amor</title>
       <description>El cantautor bogotano dio inicio a su gira ante un Movistar Arena completamente lleno.</description>
-      <link>https://www.eltiempo.com/cultura/musica-y-libros/tropicalia-de-fonseca-calento-la-fria-noche-capitalina-y-puso-a-bogota-a-cantarle-al-amor-3442201</link>
+      <link>https://www.noticiasdecolombia.com/cultura/musica-y-libros/tropicalia-de-fonseca-calento-la-fria-noche-capitalina-y-puso-a-bogota-a-cantarle-al-amor-3442201</link>
       <author>Alejandra López Plazas</author>
       <category>Cultura</category>
       <pubDate>06.04.2025 17:53 / Actualizado: 06.04.2025 18:03</pubDate>
     </item>
-    
-        <item>
+    <item>
       <title>¿Cuántos servicios de salud se cerraron el año pasado en Colombia? Cifra alerta por la grave situación del sistema</title>
       <description>Las deudas que aquejan al sistema de salud ya se están traduciendo en impactos visibles sobre los pacientes.</description>
-      <link>https://www.eltiempo.com/salud/cuantos-servicios-de-salud-se-cerraron-el-ano-pasado-en-colombia-cifra-alerta-por-la-grave-situacion-del-sistema-3441980</link>
+      <link>https://www.noticiasdecolombia.com/salud/cuantos-servicios-de-salud-se-cerraron-el-ano-pasado-en-colombia-cifra-alerta-por-la-grave-situacion-del-sistema-3441980</link>
       <author>Edwin Caicedo</author>
       <category>Salud</category>
       <pubDate>04.04.2025 21:34 / Actualizado: 07.04.2025 09:41</pubDate>
     </item>
-    
   </channel>
 </rss>
